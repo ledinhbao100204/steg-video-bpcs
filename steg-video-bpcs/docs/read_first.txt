@@ -1,0 +1,4 @@
+The lab manual is at
+   file:///home/student/labtainer/trunk/labs/steg-video-bpcs/docs/lab_description.md
+
+Open the manual before starting the lab.
